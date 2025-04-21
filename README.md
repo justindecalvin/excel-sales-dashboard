@@ -23,12 +23,6 @@ An interactive and dynamic Excel dashboard for visualizing retail sales performa
 
 ---
 
-### 📸 Screenshots
-*(Add screenshots here)*  
-You can upload a few PNG images showing the dashboard.
-
----
-
 ### 📁 How to Use
 1. Download or clone the repository
 2. Open the `.xlsx` file in Excel
